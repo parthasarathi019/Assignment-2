@@ -8,7 +8,7 @@ yarn install
 yarn start
 
 # github link and server link
-1-> https://github.com/mdmahafuzur47/level-two-assignment-two.git
+1-> https://github.com/parthasarathi019/Assignment-2/
 2-> https://level-2-assignment-2-eight.vercel.app/
 
 # some routes
